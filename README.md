@@ -4,7 +4,7 @@ A simple React app demo with JWT authentication
 
 (_this project is only for getting familiar with JWT in react_)
 
-![simple routing react app output implemented by Ali Bodaghi](simple_react_jwt_app_output.gif)
+![simple react app with JWT authentication output implemented by Ali Bodaghi](simple_react_jwt_app_output.gif)
 
 -------
 
